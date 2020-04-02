@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: PanZiqiAI's HomePage
 SEOTitle: PanZiqiAI's HomePage
 header-img: img/post-bg-desk.jpg
 email: panziqi_ai@sjtu.edu.cn
@@ -52,4 +52,3 @@ kramdown:
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
