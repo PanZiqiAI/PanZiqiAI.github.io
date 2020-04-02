@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: PanZiqiAI's HomePage
-header-img: img/post-sample-image.jpg
+header-img: img/post-bg-desk.jpg
 email: panziqi_ai@sjtu.edu.cn
 description: "NotImplemented"
 keyword: "Ziqi Pan"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/PanZiqiAI/PanZiqiAI.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                                 # whether or not using Sidebar.
 sidebar-about-description: "NotImplemented"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/post-sample-image.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
